@@ -1,4 +1,4 @@
-#Time spent: 51 Hours - 3 days - 21 hours of sleep 
+#Time spent: 51 Hours - 3 days
 #FREEBSD 2 Minutes ARP Expires - /bin/echo "net.link.ether.inet.max_age 300" >> /etc/sysctl.conf
 #Crontab -e "* * * * * python2.7 /root/Security.py >/dev/null 2>&1"
 #Interface re0_vlan4
